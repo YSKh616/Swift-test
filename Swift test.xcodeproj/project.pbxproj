@@ -12,6 +12,8 @@
 		704722371F6568FA00F54D97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 704722351F6568FA00F54D97 /* Main.storyboard */; };
 		704722391F6568FA00F54D97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 704722381F6568FA00F54D97 /* Assets.xcassets */; };
 		7047223C1F6568FA00F54D97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7047223A1F6568FA00F54D97 /* LaunchScreen.storyboard */; };
+		704722451F66CD3F00F54D97 /* key.png in Resources */ = {isa = PBXBuildFile; fileRef = 704722431F66CD3F00F54D97 /* key.png */; };
+		704722461F66CD3F00F54D97 /* setting.png in Resources */ = {isa = PBXBuildFile; fileRef = 704722441F66CD3F00F54D97 /* setting.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		704722381F6568FA00F54D97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7047223B1F6568FA00F54D97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7047223D1F6568FA00F54D97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		704722431F66CD3F00F54D97 /* key.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = key.png; sourceTree = "<group>"; };
+		704722441F66CD3F00F54D97 /* setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				704722311F6568FA00F54D97 /* AppDelegate.swift */,
+				704722431F66CD3F00F54D97 /* key.png */,
+				704722441F66CD3F00F54D97 /* setting.png */,
 				704722331F6568FA00F54D97 /* ViewController.swift */,
 				704722351F6568FA00F54D97 /* Main.storyboard */,
 				704722381F6568FA00F54D97 /* Assets.xcassets */,
@@ -126,6 +132,8 @@
 				7047223C1F6568FA00F54D97 /* LaunchScreen.storyboard in Resources */,
 				704722391F6568FA00F54D97 /* Assets.xcassets in Resources */,
 				704722371F6568FA00F54D97 /* Main.storyboard in Resources */,
+				704722461F66CD3F00F54D97 /* setting.png in Resources */,
+				704722451F66CD3F00F54D97 /* key.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
