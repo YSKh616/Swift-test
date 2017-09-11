@@ -44,10 +44,10 @@
             </objects>
             <point key="canvasLocation" x="-10.4" y="126.38680659670166"/>
         </scene>
-        <!--View Controller-->
+        <!--Next View Controller-->
         <scene sceneID="TrE-c9-TQu">
             <objects>
-                <viewController id="fWu-zn-hRA" sceneMemberID="viewController">
+                <viewController id="fWu-zn-hRA" customClass="NextViewController" customModule="Swift_test" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="bKf-ah-kbW"/>
                         <viewControllerLayoutGuide type="bottom" id="xJo-nk-xei"/>
